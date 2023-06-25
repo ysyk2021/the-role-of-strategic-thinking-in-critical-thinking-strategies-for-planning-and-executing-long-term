@@ -1,5 +1,4 @@
-Chapter 6: Using Critical Thinking to Plan and Execute Long-Term Goals: Creating Action Plans
-=============================================================================================
+# Creating Action Plans
 
 Critical thinking is an essential skill for effective planning and execution of long-term goals. In this chapter, we will discuss how to use critical thinking to create action plans that facilitate the achievement of long-term goals.
 

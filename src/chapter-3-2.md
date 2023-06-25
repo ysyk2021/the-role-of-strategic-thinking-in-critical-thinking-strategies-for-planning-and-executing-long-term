@@ -1,5 +1,4 @@
-Chapter 3: Understanding Strategic Thinking: Identifying Types of Strategic Thinking
-====================================================================================
+# Identifying Types of Strategic Thinking
 
 Strategic thinking is an essential skill for effective planning and execution of long-term goals. In this chapter, we will explore different types of strategic thinking.
 

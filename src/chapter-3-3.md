@@ -1,5 +1,4 @@
-Chapter 3: Understanding Strategic Thinking: Exploring the Relationship between Strategic Thinking and Critical Thinking
-========================================================================================================================
+# Exploring the Relationship between Strategic Thinking and Critical Thinking
 
 Strategic thinking and critical thinking are both essential skills for effective planning and execution of long-term goals. In this chapter, we will explore the relationship between strategic thinking and critical thinking, and how they complement each other.
 

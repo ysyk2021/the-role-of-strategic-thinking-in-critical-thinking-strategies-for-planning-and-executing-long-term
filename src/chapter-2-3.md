@@ -1,5 +1,4 @@
-Chapter 2: Overview of Critical Thinking: Techniques for Overcoming Common Challenges in Critical Thinking
-==========================================================================================================
+# Techniques for Overcoming Common Challenges in Critical Thinking
 
 Critical thinking is a process of analyzing, evaluating, and making decisions based on evidence and logic. It involves questioning assumptions, considering multiple perspectives, and identifying potential biases and errors in reasoning. In this chapter, we will provide an overview of critical thinking and explore techniques for overcoming common challenges in critical thinking.
 

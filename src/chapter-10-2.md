@@ -1,5 +1,4 @@
-Chapter 10: Conclusion: Final Recommendations for Incorporating Strategic Thinking into Critical Thinking
-=========================================================================================================
+# Final Recommendations for Incorporating Strategic Thinking into Critical Thinking
 
 As we conclude this book on the role of strategic thinking in critical thinking, here are some final recommendations for incorporating strategic thinking into critical thinking:
 

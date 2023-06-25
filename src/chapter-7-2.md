@@ -1,5 +1,4 @@
-Chapter 7: Enhancing Leadership through Strategic Thinking and Critical Thinking: Leading by Example
-====================================================================================================
+# Leading by Example
 
 Leaders who employ strategic thinking and critical thinking can create a culture of innovation and progress within their organization. In this chapter, we will discuss how leaders can enhance their leadership skills by applying strategic thinking and critical thinking in their decision-making processes.
 

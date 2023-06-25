@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Results: Establishing Key Performance Indicators (KPIs)
-===========================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 Measuring and evaluating results is a crucial step in the strategic thinking and critical thinking process. In this chapter, we will discuss how to establish key performance indicators (KPIs) to measure progress towards long-term goals and evaluate the effectiveness of strategies.
 

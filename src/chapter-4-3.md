@@ -1,5 +1,4 @@
-Chapter 4: Developing a Strategic Thinking Mindset: Encouraging Creativity and Innovation
-=========================================================================================
+# Encouraging Creativity and Innovation
 
 Encouraging creativity and innovation is an essential component of developing a strategic thinking mindset. In this chapter, we will explore strategies for fostering creativity and innovation.
 

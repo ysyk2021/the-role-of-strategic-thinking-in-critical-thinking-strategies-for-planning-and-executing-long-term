@@ -1,5 +1,4 @@
-Chapter 9: Sustaining Strategic Thinking and Critical Thinking Efforts: Celebrating Success
-===========================================================================================
+# Celebrating Success
 
 Celebrating success is an important component of sustaining a strategic mindset that encompasses both critical thinking and strategic thinking. By acknowledging and celebrating successes, individuals can maintain their motivation and momentum, as well as reinforce the importance of strategic thinking and critical thinking in achieving long-term goals. In this chapter, we will explore techniques for celebrating success.
 

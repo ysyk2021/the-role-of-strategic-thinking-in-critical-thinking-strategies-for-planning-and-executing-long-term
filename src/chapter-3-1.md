@@ -1,5 +1,4 @@
-Chapter 3: Understanding Strategic Thinking: Techniques for Understanding Strategic Thinking
-============================================================================================
+# Techniques for Understanding Strategic Thinking
 
 Strategic thinking is an essential skill for effective planning and execution of long-term goals. In this chapter, we will explore techniques for understanding strategic thinking.
 

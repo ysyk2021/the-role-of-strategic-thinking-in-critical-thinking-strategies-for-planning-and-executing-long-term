@@ -1,5 +1,4 @@
-Chapter 4: Developing a Strategic Thinking Mindset: Embracing a Growth Mindset
-==============================================================================
+# Embracing a Growth Mindset
 
 Developing a strategic thinking mindset is essential for effective planning and execution of long-term goals. In this chapter, we will explore the concept of a growth mindset and how it can support strategic thinking.
 
