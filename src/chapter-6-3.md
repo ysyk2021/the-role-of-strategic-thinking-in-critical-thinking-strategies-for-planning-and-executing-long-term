@@ -1,4 +1,4 @@
-Chapter 8: Creating Action Plans
+Creating Action Plans
 ================================
 
 In this chapter, we will explore the importance of creating action plans as a crucial step in the process of planning and executing long-term goals. An action plan translates strategic thinking into tangible steps and provides a roadmap for achieving desired outcomes. Let's delve into the process of creating effective action plans:

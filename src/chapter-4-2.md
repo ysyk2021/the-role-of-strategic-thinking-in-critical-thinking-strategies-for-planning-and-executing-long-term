@@ -1,4 +1,4 @@
-Chapter 10: Embracing a Growth Mindset
+Embracing a Growth Mindset
 ======================================
 
 In this chapter, we will explore the concept of a growth mindset and its significance in developing effective critical thinking strategies for planning and executing long-term goals. A growth mindset is the belief that abilities and intelligence can be developed through dedication, effort, and continuous learning. By embracing a growth mindset, individuals can optimize their potential, overcome obstacles, and achieve long-term success.

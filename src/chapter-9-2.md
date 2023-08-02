@@ -1,4 +1,4 @@
-Chapter 8: Continuous Learning and Improvement
+Continuous Learning and Improvement
 ==============================================
 
 Continuous learning and improvement are essential for mastering the art of strategic thinking and critical thinking in planning and executing long-term goals. In this chapter, we will explore the significance of continuous learning and improvement and discuss strategies to cultivate these habits.

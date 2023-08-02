@@ -1,4 +1,4 @@
-Chapter 12: Building a Culture of Continuous Improvement
+Building a Culture of Continuous Improvement
 ========================================================
 
 In this chapter, we will explore the importance of building a culture of continuous improvement in the context of strategic thinking and critical thinking. Organizations that embrace a culture of continuous improvement foster an environment where individuals are encouraged to think critically, seek innovative solutions, and constantly strive for excellence. By promoting continuous improvement, organizations can enhance their strategic planning and execution processes, leading to the successful achievement of long-term goals.

@@ -1,4 +1,4 @@
-Chapter 10: The Impact of Critical Thinking on Organizational Performance
+The Impact of Critical Thinking on Organizational Performance
 =========================================================================
 
 In this chapter, we will explore the significant impact that critical thinking can have on organizational performance. Critical thinking is not only a valuable skill for individuals but also plays a crucial role in shaping the success and effectiveness of organizations. By fostering a culture of critical thinking and integrating it into decision-making processes, organizations can experience numerous benefits and achieve improved performance in various aspects.

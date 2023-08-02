@@ -1,4 +1,4 @@
-Chapter 3: Identifying Types of Strategic Thinking
+Identifying Types of Strategic Thinking
 ==================================================
 
 In this chapter, we will explore different types of strategic thinking that individuals can employ to enhance their critical thinking strategies for planning and executing long-term goals.

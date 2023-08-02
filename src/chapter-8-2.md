@@ -1,4 +1,4 @@
-Chapter 10: Establishing Key Performance Indicators (KPIs)
+Establishing Key Performance Indicators (KPIs)
 ==========================================================
 
 Key Performance Indicators (KPIs) are essential tools for measuring and evaluating progress in strategic thinking and critical thinking strategies for planning and executing long-term goals. In this chapter, we will explore the significance of KPIs and discuss effective approaches to establishing and utilizing them.

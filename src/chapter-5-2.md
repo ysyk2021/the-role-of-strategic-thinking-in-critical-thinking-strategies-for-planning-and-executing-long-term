@@ -1,4 +1,4 @@
-Chapter 8: Establishing Clear Goals and Objectives
+Establishing Clear Goals and Objectives
 ==================================================
 
 In this chapter, we will explore the importance of establishing clear goals and objectives in the context of strategic thinking and critical thinking. Clear goals serve as the foundation for effective planning and execution, providing a sense of direction and purpose. By applying critical thinking strategies to goal-setting, individuals can ensure that their long-term goals are well-defined, achievable, and aligned with their overall strategic vision.

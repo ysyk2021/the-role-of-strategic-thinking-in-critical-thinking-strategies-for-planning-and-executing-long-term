@@ -1,4 +1,4 @@
-Chapter 2: Exploring the Relationship between Strategic Thinking and Critical Thinking
+Exploring the Relationship between Strategic Thinking and Critical Thinking
 ======================================================================================
 
 Introduction

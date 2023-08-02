@@ -1,4 +1,4 @@
-Chapter 9: Celebrating Success
+Celebrating Success
 ==============================
 
 Celebrating success is a crucial aspect of strategic thinking and critical thinking strategies for planning and executing long-term goals. In this chapter, we will explore the importance of celebrating success and discuss effective ways to acknowledge and appreciate achievements along the journey.

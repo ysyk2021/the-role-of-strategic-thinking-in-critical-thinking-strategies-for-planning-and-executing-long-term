@@ -1,4 +1,4 @@
-Chapter 6: Conducting SWOT Analysis
+Conducting SWOT Analysis
 ===================================
 
 In this chapter, we will explore the importance of conducting a SWOT analysis as a critical thinking strategy for planning and executing long-term goals. SWOT analysis is a powerful tool that allows individuals and organizations to evaluate their internal strengths and weaknesses, as well as external opportunities and threats. Let's delve into the process of conducting a SWOT analysis:

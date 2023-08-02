@@ -1,4 +1,4 @@
-Chapter 10: Leading by Example
+Leading by Example
 ==============================
 
 In this chapter, we will explore the importance of leading by example in the context of strategic thinking and critical thinking. Effective leaders not only possess strong strategic and critical thinking skills but also demonstrate these abilities in their actions and behaviors. By leading by example, leaders inspire and motivate others to adopt similar approaches, fostering a culture of strategic thinking and critical thinking within their organizations.
