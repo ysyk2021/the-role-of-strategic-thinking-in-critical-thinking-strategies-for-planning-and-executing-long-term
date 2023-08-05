@@ -48,4 +48,3 @@ Leading by Example
 
 By leveraging strategic thinking and critical thinking techniques, leaders can enhance their leadership abilities, make better-informed decisions, and drive their organizations towards achieving long-term goals. By developing a strategic mindset, utilizing critical thinking in decision-making, applying strategic thinking tools, fostering a culture of critical thinking, and leading by example, leaders can navigate complex challenges, adapt to changing environments, and inspire their teams to achieve success.
 
-*Suggested reading: "The Power of Strategic Thinking: Lock In Markets, Lock Out Competitors" by Michel Robert.*

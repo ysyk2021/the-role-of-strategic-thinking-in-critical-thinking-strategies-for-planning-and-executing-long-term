@@ -40,4 +40,3 @@ Continual Learning and Adaptation
 
 Incorporating critical thinking into the fabric of an organization has a profound impact on its overall performance. From problem-solving and strategic planning to decision-making and collaboration, critical thinking enhances various aspects of organizational functioning. By nurturing a culture that values and promotes critical thinking, organizations can reap the benefits of improved performance, innovation, and adaptability.
 
-*Suggested reading: "Critical Thinking: Your Guide to Effective Argument, Successful Analysis and Independent Study" by Tom Chatfield.*

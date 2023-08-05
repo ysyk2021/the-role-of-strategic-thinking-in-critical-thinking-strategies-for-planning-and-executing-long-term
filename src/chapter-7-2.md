@@ -40,4 +40,3 @@ Empowering Others
 
 Leading by example is a powerful way to cultivate a culture of strategic thinking and critical thinking within an organization. By demonstrating strategic thinking skills, applying critical thinking in action, cultivating a strategic and critical thinking culture, and empowering others, leaders inspire their teams to embrace these skills and drive success in planning and executing long-term goals.
 
-*Suggested reading: "Leaders Eat Last: Why Some Teams Pull Together and Others Don't" by Simon Sinek.*

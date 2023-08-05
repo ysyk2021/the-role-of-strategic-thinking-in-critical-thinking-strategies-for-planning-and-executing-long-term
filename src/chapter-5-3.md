@@ -50,4 +50,3 @@ In addition to quantitative data, qualitative analysis can provide deeper insigh
 
 Analyzing data and information is an integral part of critical thinking when planning and executing long-term goals. By employing effective data analysis techniques, individuals can unlock valuable insights, uncover patterns and trends, and make informed decisions. By combining data analysis with other critical thinking skills, individuals can optimize their strategies, maximize their chances of success, and adapt to changing circumstances effectively.
 
-*Suggested reading: "Data Analysis for Business Decisions: A Managerial Approach" by Mik Wisniewski.*

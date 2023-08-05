@@ -1,9 +1,6 @@
 Exploring the Relationship between Strategic Thinking and Critical Thinking
 ======================================================================================
 
-Introduction
-------------
-
 In this chapter, we will delve into the relationship between strategic thinking and critical thinking. While they are distinct cognitive processes, strategic thinking and critical thinking share a symbiotic relationship that can greatly enhance the effectiveness of long-term goal planning and execution.
 
 Understanding Critical Thinking
@@ -45,4 +42,3 @@ To leverage the relationship between strategic thinking and critical thinking ef
 
 By harnessing the synergy between strategic thinking and critical thinking, individuals can develop comprehensive strategies, make informed decisions, and execute long-term goals more effectively, positioning themselves for sustained success.
 
-*Suggested reading: "Strategic Intuition: The Creative Spark in Human Achievement" by William Duggan.*

@@ -1,9 +1,6 @@
 Defining the Importance of Strategic Thinking in Critical Thinking
 =============================================================================
 
-Introduction
-------------
-
 In this chapter, we will delve into the significance of strategic thinking within the realm of critical thinking. Strategic thinking is a cognitive process that involves analyzing complex situations, considering long-term goals, and formulating effective strategies to achieve those goals. When integrated into critical thinking, strategic thinking enhances the planning and execution of long-term objectives by providing a comprehensive and future-oriented perspective.
 
 Understanding Critical Thinking
@@ -46,4 +43,3 @@ Conclusion
 
 Strategic thinking plays a vital role in enhancing critical thinking strategies for planning and executing long-term goals. By complementing critical thinking with a long-term perspective, flexibility, goal alignment, and integrated decision-making, strategic thinking empowers individuals to navigate complex challenges, seize opportunities, and achieve sustainable success. The remainder of this book will delve further into specific techniques and methodologies to effectively incorporate strategic thinking into critical thinking processes.
 
-*Suggested reading: "Strategic Thinking: A Step-by-Step Approach to Strategy Formation" by Simon Wootton and Terry Horne.*

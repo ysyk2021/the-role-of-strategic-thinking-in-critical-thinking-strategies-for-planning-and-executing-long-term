@@ -42,4 +42,3 @@ To overcome the challenges and maximize the benefits of incorporating strategic 
 
 By navigating these challenges and leveraging the benefits, individuals can harness the power of strategic thinking within the critical thinking process, facilitating effective planning and execution of long-term goals.
 
-*Suggested reading: "Strategic Thinking: A Step-by-Step Approach to Strategy" by Simon Wootton and Terry Horne.*

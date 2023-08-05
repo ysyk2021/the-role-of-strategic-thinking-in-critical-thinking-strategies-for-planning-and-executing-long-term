@@ -57,4 +57,3 @@ Overcoming Challenges in Goal Setting
 
 Establishing clear goals and objectives is crucial for effective planning and execution of long-term goals. By applying critical thinking strategies to goal-setting, individuals can ensure that their goals are specific, measurable, achievable, relevant, and time-bound. Through a well-defined goal-setting process and proactive monitoring, individuals can navigate challenges, make informed decisions, and ultimately achieve their desired outcomes.
 
-*Suggested reading: "Drive: The Surprising Truth About What Motivates Us" by Daniel H. Pink.*

@@ -53,4 +53,3 @@ Strategic thinking focuses on aligning long-term goals with actions and outcomes
 
 By embracing the value of different perspectives and understanding the range of approaches available, individuals can enhance their critical thinking skills. Applying a combination of analytical, creative, reflective, collaborative, and strategic thinking allows for more comprehensive and robust planning and execution of long-term goals.
 
-*Suggested reading: "Thinking, Fast and Slow" by Daniel Kahneman.*

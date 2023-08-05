@@ -48,4 +48,3 @@ Conclusion
 
 Understanding the various types of strategic thinking empowers individuals to tailor their cognitive approach to different contexts and challenges. By embracing analytical thinking, creative thinking, systems thinking, design thinking, futuristic thinking, and critical thinking, individuals can develop a well-rounded strategic thinking toolkit. This enables them to analyze complex situations, identify innovative solutions, and plan and execute long-term goals with greater success.
 
-*Suggested reading: "Seeing What Others Don't: The Remarkable Ways We Gain Insights" by Gary Klein.*

@@ -51,4 +51,3 @@ Recognize the power of collaboration and surround yourself with individuals who 
 
 By adopting these strategies and consistently applying them, individuals can cultivate a growth mindset and unlock their full potential. Embracing a growth mindset is essential for developing effective critical thinking strategies, planning for long-term goals, and achieving success in various aspects of life.
 
-*Suggested reading: Mindset: The New Psychology of Success by Carol S. Dweck.*

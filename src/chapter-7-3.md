@@ -40,4 +40,3 @@ Recognizing and Celebrating Achievements
 
 Building a culture of continuous improvement is essential for organizations striving to plan and execute long-term goals effectively. By embracing a growth mindset, integrating feedback loops, encouraging collaboration and knowledge sharing, and recognizing and celebrating achievements, organizations foster a culture where strategic thinking and critical thinking thrive, leading to continuous growth, innovation, and goal attainment.
 
-*Suggested reading: "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries.*

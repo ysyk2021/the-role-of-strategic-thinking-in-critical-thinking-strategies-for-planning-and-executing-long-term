@@ -60,4 +60,3 @@ Create a decision matrix to compare and evaluate different options based on pred
 
 By incorporating these techniques into your critical thinking process, you can overcome common challenges and enhance your ability to plan and execute long-term goals effectively. Remember that critical thinking is a skill that improves with practice and deliberate effort. Apply these techniques consistently to strengthen your critical thinking abilities and achieve greater success in your endeavors.
 
-*Suggested reading: "Critical Thinking: Tools for Taking Charge of Your Learning and Your Life" by Richard Paul and Linda Elder.*
