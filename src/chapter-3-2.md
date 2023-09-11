@@ -1,10 +1,5 @@
-Identifying Types of Strategic Thinking
-==================================================
 
 In this chapter, we will explore different types of strategic thinking that individuals can employ to enhance their critical thinking strategies for planning and executing long-term goals.
-
-Introduction
-------------
 
 Strategic thinking encompasses various approaches and perspectives that individuals can adopt to analyze complex situations, formulate effective strategies, and achieve desired outcomes. By understanding different types of strategic thinking, individuals can broaden their mindset and adapt their thinking to different contexts and challenges.
 

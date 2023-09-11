@@ -1,5 +1,3 @@
-Chapter 6: Using Critical Thinking to Plan and Execute Long-Term Goals
-======================================================================
 
 Critical thinking is an essential component of planning and executing long-term goals. By utilizing critical thinking techniques, individuals can identify potential obstacles and challenges, evaluate the feasibility and impact of different options, and develop a comprehensive action plan for achieving their goals. In this chapter, we will explore techniques for using critical thinking to plan and execute long-term goals.
 

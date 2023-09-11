@@ -1,5 +1,3 @@
-Chapter 5: Incorporating Strategic Thinking into Critical Thinking
-==================================================================
 
 Incorporating strategic thinking into critical thinking is essential for effective planning and execution of long-term goals. In this chapter, we will explore techniques for incorporating strategic thinking into critical thinking, including establishing clear goals and objectives and analyzing data and information.
 

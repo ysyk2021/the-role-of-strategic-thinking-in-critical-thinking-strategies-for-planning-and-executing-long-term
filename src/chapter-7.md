@@ -1,5 +1,3 @@
-Chapter 7: Enhancing Leadership through Strategic Thinking and Critical Thinking
-================================================================================
 
 Effective leadership requires a combination of strategic thinking and critical thinking skills. In this chapter, we will discuss techniques for enhancing leadership through strategic thinking and critical thinking, as well as how to build a culture of continuous improvement within an organization.
 

@@ -1,5 +1,3 @@
-Exploring the Relationship between Strategic Thinking and Critical Thinking
-======================================================================================
 
 In this chapter, we will delve into the relationship between strategic thinking and critical thinking. While they are distinct cognitive processes, strategic thinking and critical thinking share a symbiotic relationship that can greatly enhance the effectiveness of long-term goal planning and execution.
 

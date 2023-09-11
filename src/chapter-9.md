@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Strategic Thinking and Critical Thinking Efforts
-======================================================================
 
 The process of strategic thinking and critical thinking requires consistent effort and attention. In this chapter, we will discuss techniques for sustaining these efforts and ensuring long-term success.
 

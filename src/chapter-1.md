@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Defining the Importance of Strategic Thinking in Critical Thinking
 ------------------------------------------------------------------

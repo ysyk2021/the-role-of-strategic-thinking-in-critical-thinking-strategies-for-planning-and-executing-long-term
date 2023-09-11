@@ -1,5 +1,3 @@
-Techniques for Incorporating Strategic Thinking into Critical Thinking
-==================================================================================
 
 In this chapter, we will explore various techniques for incorporating strategic thinking into critical thinking. Strategic thinking and critical thinking are complementary skills that, when combined, enhance problem-solving, decision-making, and goal attainment. By applying strategic thinking techniques within the framework of critical thinking, individuals can develop a comprehensive approach to planning and executing long-term goals.
 

@@ -1,5 +1,3 @@
-Chapter 3: Understanding Strategic Thinking
-===========================================
 
 Strategic thinking is a process of analyzing, planning, and executing actions that are designed to achieve long-term goals. It involves taking a big-picture perspective and considering the potential risks and opportunities associated with different courses of action. In this chapter, we will explore techniques for understanding strategic thinking, identify different types of strategic thinking, and explore the relationship between strategic thinking and critical thinking.
 
